@@ -1,3 +1,1 @@
-Aqui contem um texto que fala sobre um menino pobre chamado Pedro.
-Ele era um menino feliz e cativante.
-Pedro tinha uma amiga chamada Carol.
+{'nome_do_arquivo': 'statics/nome_pedro.txt', 'qtd_linhas': 1, 'linhas_do_arquivo': ['{\'nome_do_arquivo\': \'statics/nome_pedro.txt\', \'qtd_linhas\': 1, \'linhas_do_arquivo\': [\'{\\\'nome_do_arquivo\\\': \\\'statics/nome_pedro.txt\\\', \\\'qtd_linhas\\\': 1, \\\'linhas_do_arquivo\\\': ["{\\\'nome_do_arquivo\\\': \\\'statics/nome_pedro.txt\\\', \\\'qtd_linhas\\\': 3, \\\'linhas_do_arquivo\\\': [\\\'Aqui contem um texto que fala sobre um menino pobre chamado Pedro.\\\\\\\\n\\\', \\\'Ele era um menino feliz e cativante.\\\\\\\\n\\\', \\\'Pedro tinha uma amiga chamada Carol.\\\']}\\\\n"]}\\n\']}\n']}
